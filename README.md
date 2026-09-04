@@ -149,11 +149,12 @@ Configuration management will ensure that the team can identify, control and rep
 -**Environment and dependency files:** Build instructions, software libraries, dependency versions, database configurations, and deployment settings. 
 -**Project documentation:** The README, user instructions, risk register, schedules and release notes. 
 
+Configuration items will be identified by descriptive file names, branches, commits, and version tags. Proposed changes will be documented, reviewed, tested on a separate branch, and merge only if approved. 
+
 ### Quality Planning
 
 The primary quality goals for the DigitalHome project will be reliability, security, usability, maintainability, and requirements compliance. The system should perform it required functions consistently, protect the user and household information, provide an easy to navigate interface, and allow component to be modified without creating defects elsewhere. 
 
-Configuration items will be identified by descriptive file names, branches, commits, and version tags. Proposed changes will be documented, reviewed, tested on a separate branch, and merge only if approved. 
 
 Progress towards these goals will be measured using the following metrics:
 
