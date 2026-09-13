@@ -1,6 +1,6 @@
-1. Project Goal
+## 1. Project Goal
 The DigitalHome (DH) project aims to provide homeowners with a centralized system for monitoring and controlling their home environment. Through a web-connected device, users can adjust temperature and humidity settings, control lights and small appliances, monitor security sensors, and schedule automated settings. The system is intended to make home management more convenient while maintaining security, reliability, and the ability for users to take manual control.
-2. Target Users
+## 2. Target Users
 General User: A homeowner or resident who needs to monitor environmental conditions, control connected devices, manage security features, and adjust scheduled settings.
 Master User: A homeowner or resident with additional permissions who needs to manage user accounts, access restrictions, default settings, and system operations.
 DH Technician: A trained technician who needs to install, configure, troubleshoot, and maintain the DigitalHome system and its connected devices.
